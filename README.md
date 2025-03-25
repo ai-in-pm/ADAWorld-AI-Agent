@@ -2,6 +2,9 @@
 
 A real-time demonstration of learning Adaptable World Models with Latent Actions using the Agno framework.
 
+https://github.com/user-attachments/assets/8e5bd8ac-3c9b-49cf-a6ac-d747e7fde1e3
+
+
 ## Overview ⭐
 
 This implementation demonstrates how an AI agent can learn adaptable world models by discovering latent action representations. The key components include:
