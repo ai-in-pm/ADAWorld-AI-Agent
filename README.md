@@ -2,6 +2,8 @@
 
 A real-time demonstration of learning Adaptable World Models with Latent Actions using the Agno framework.
 
+The development of this repository was inspired by the paper "AdaWorld: Learning Adaptable World Models with Latent Actions". To read the entire paper, visit https://arxiv.org/pdf/2503.18938
+
 https://github.com/user-attachments/assets/8e5bd8ac-3c9b-49cf-a6ac-d747e7fde1e3
 
 
